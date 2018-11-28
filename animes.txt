@@ -1,10 +1,6 @@
 Dangan Rompa
-![./monokuma.jpg](Monokuma)
 One Piece
-![./luffy.jpg](Bandeira de Luffy)
 Fairy Tail
-![./fairy-tail.jpg](Membros da guilda)
 Bunny Girl
-![./bunny-girl.jpg](Protagonista e Heroina principal)
 Tokyo Ghoul
-![./tokyu-guru.jpg](Kaneki e Touka)
+Boku No Hero
